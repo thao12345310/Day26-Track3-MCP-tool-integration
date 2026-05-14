@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "type": "stdio",
+      "command": "/ABSOLUTE/PATH/TO/REPO/.venv/bin/python",
+      "args": ["/ABSOLUTE/PATH/TO/REPO/implementation/mcp_server.py"],
+      "env": {}
+    }
+  }
+}
